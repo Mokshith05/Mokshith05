@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a CSE Student <br>Exploring Tech is my thing<br>Aspiring Ai integrated Full stack developer <br>BTECH at GITAM Uni 
+I am a CSE Student <br>Exploring Tech is my thing<br>Aspiring Ai and Full stack developer <br>BTECH at GITAM Uni 
 
 
 ## 🌐 Socials:
